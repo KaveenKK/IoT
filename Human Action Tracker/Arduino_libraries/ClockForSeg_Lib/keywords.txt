@@ -1,0 +1,7 @@
+# keywords.txt
+ClockForSeg	KEYWORD1
+init		KEYWORD2
+displayTime	KEYWORD2
+setBright		KEYWORD2
+NON_BLINK	LITERAL1
+BLINK		LITERAL1
