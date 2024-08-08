@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# Ignore files in the Arduino_libraries folder from language statistics
 Arduino_libraries/* linguist-vendored
